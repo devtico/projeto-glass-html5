@@ -10,8 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b517f183-9215-4043-86ea-9c8010df8684" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="b517f183-9215-4043-86ea-9c8010df8684" name="Default Changelist" comment="Testing push all files trought graphical interface">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +50,16 @@
       <option name="presentableId" value="Default" />
       <updated>1598363548555</updated>
       <workItem from="1598363549623" duration="5029000" />
-      <workItem from="1598377823944" duration="4743000" />
+      <workItem from="1598377823944" duration="7376000" />
     </task>
+    <task id="LOCAL-00001" summary="Testing push all files trought graphical interface">
+      <created>1598384493958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598384493958</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,6 +75,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testing push all files trought graphical interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing push all files trought graphical interface" />
   </component>
   <component name="WindowStateProjectService">
     <state x="493" y="157" width="424" height="491" key="FileChooserDialogImpl" timestamp="1598383236786">
