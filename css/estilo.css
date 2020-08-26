@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* formatação do corpo */
+body{
+    background-color: whitesmoke;
+    color: black;
+}
+p{
+    text-align: justify;
+    text-indent: 50px;
+}
+/* Formatação de imagens com legendas */
+figure.foto-legenda{
+
+}
