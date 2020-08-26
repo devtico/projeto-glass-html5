@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b517f183-9215-4043-86ea-9c8010df8684" name="Default Changelist" comment="paragraphs received text formatting">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
       <updated>1598363548555</updated>
       <workItem from="1598363549623" duration="5029000" />
       <workItem from="1598377823944" duration="12894000" />
+      <workItem from="1598448566884" duration="798000" />
     </task>
     <task id="LOCAL-00001" summary="Testing push all files trought graphical interface">
       <created>1598384493958</created>
@@ -109,6 +110,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testing push all files trought graphical interface" />
