@@ -48,7 +48,7 @@
       <updated>1598363548555</updated>
       <workItem from="1598363549623" duration="5029000" />
       <workItem from="1598377823944" duration="12894000" />
-      <workItem from="1598448566884" duration="1141000" />
+      <workItem from="1598448566884" duration="1501000" />
     </task>
     <task id="LOCAL-00001" summary="Testing push all files trought graphical interface">
       <created>1598384493958</created>
@@ -99,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598449563964</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add colors on body style">
+      <created>1598449892938</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598449892938</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +132,9 @@
     <MESSAGE value="remove underscore from all folders" />
     <MESSAGE value="paragraphs received text formatting" />
     <MESSAGE value="Delete style index body" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete style index body" />
+    <MESSAGE value="Add style to the body" />
+    <MESSAGE value="Add colors on body style" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add colors on body style" />
   </component>
   <component name="WindowStateProjectService">
     <state x="493" y="157" width="424" height="491" key="FileChooserDialogImpl" timestamp="1598383236786">
@@ -136,10 +145,10 @@
       <screen x="54" y="27" width="1312" height="741" />
     </state>
     <state x="199" y="31" width="1022" height="737" key="SettingsEditor/54.27.1312.741@54.27.1312.741" timestamp="1598383258745" />
-    <state x="305" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598449569852">
+    <state x="305" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598449929547">
       <screen x="54" y="27" width="1312" height="741" />
     </state>
-    <state x="305" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/54.27.1312.741@54.27.1312.741" timestamp="1598449569852" />
+    <state x="305" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/54.27.1312.741@54.27.1312.741" timestamp="1598449929547" />
     <state x="373" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1598383187432">
       <screen x="54" y="27" width="1312" height="741" />
     </state>
