@@ -13,7 +13,6 @@
     <list default="true" id="b517f183-9215-4043-86ea-9c8010df8684" name="Default Changelist" comment="paragraphs received text formatting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundo.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,8 @@
       <updated>1598363548555</updated>
       <workItem from="1598363549623" duration="5029000" />
       <workItem from="1598377823944" duration="12894000" />
-      <workItem from="1598448566884" duration="8436000" />
+      <workItem from="1598448566884" duration="17802000" />
+      <workItem from="1598519552185" duration="7278000" />
     </task>
     <task id="LOCAL-00001" summary="Testing push all files trought graphical interface">
       <created>1598384493958</created>
@@ -118,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598450277743</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="config style file">
+      <created>1598473770658</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1598473770658</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,9 +154,14 @@
     <MESSAGE value="Add style to the body" />
     <MESSAGE value="Add colors on body style" />
     <MESSAGE value="add image on body style" />
-    <option name="LAST_COMMIT_MESSAGE" value="add image on body style" />
+    <MESSAGE value="config style file" />
+    <option name="LAST_COMMIT_MESSAGE" value="config style file" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="54" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598521416374">
+      <screen x="54" y="27" width="1312" height="741" />
+    </state>
+    <state x="54" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/54.27.1312.741@54.27.1312.741" timestamp="1598521416374" />
     <state x="493" y="157" width="424" height="491" key="FileChooserDialogImpl" timestamp="1598383236786">
       <screen x="54" y="27" width="1312" height="741" />
     </state>
@@ -158,13 +170,13 @@
       <screen x="54" y="27" width="1312" height="741" />
     </state>
     <state x="199" y="31" width="1022" height="737" key="SettingsEditor/54.27.1312.741@54.27.1312.741" timestamp="1598383258745" />
-    <state x="305" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598450284786">
+    <state x="305" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598473779389">
       <screen x="54" y="27" width="1312" height="741" />
     </state>
-    <state x="305" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/54.27.1312.741@54.27.1312.741" timestamp="1598450284786" />
-    <state x="373" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1598383187432">
+    <state x="305" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/54.27.1312.741@54.27.1312.741" timestamp="1598473779389" />
+    <state x="373" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1598477418614">
       <screen x="54" y="27" width="1312" height="741" />
     </state>
-    <state x="373" y="89" width="672" height="678" key="search.everywhere.popup/54.27.1312.741@54.27.1312.741" timestamp="1598383187432" />
+    <state x="373" y="89" width="672" height="678" key="search.everywhere.popup/54.27.1312.741@54.27.1312.741" timestamp="1598477418614" />
   </component>
 </project>
